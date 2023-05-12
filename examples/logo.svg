@@ -1,6 +1,6 @@
 
     <svg width="300" height ="200" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="150" cy="100" r="80" fill="brown" />
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="red" font-size="70" font-weight="bold">JJJ</text>
+    <rect width="200" height="200" fill="red" />
+    <text x="33.33%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="100" font-weight="bold">JJJ</text>
     </svg>
     
